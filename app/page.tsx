@@ -23,7 +23,7 @@ export default function Home() {
             clicks.
           </p>
           <div className="flex justify-center lg:justify-start">
-            <Link href="/sign-up">
+            <Link href="/dashboard">
               <Button
                 size="lg"
                 className="text-lg gap-3 group relative overflow-hidden"
